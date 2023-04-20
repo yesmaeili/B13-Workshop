@@ -1,4 +1,6 @@
-/*
+/* Using if/else statements and strict equality operators,
+JavaScript code in a script tag that compares two sets of two values.
+Print true if at least one of the pairs is truthy.
 */
       let param1A = "cat";
       let param1B = "cat";
